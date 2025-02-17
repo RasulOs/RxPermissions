@@ -17,7 +17,8 @@ allprojects {
 }
 
 dependencies {
-    implementation 'com.github.tbruyelle:rxpermissions:0.12'
+    implementation 'com.github.tbruyelle:rxpermissions:0.12' 
+    implementation 'io.github.rasulos:RxPermissions:0.13' // For maven central
 }
 ```
 
